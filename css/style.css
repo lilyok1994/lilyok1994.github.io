@@ -8,7 +8,9 @@ body{
 	margin-top:100px;
 }
 
-.navbar-brand{font-size:20px;}
+.navbar-brand{font-size:20px;
+			background-image: 
+}
 
 .card-title{:pink;}
 
@@ -34,4 +36,9 @@ img {
 
 .fa{
 	font-size:30px; color:#4357AD;  text-align:center;
+}
+
+
+.fashion{
+	width:100%;
 }
